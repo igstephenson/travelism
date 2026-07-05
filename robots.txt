@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://igstephenson.github.io/travelism/sitemap.xml
