@@ -3,14 +3,14 @@
     <title>Travelisms</title>
     <link href="https://igstephenson.github.io/travelism/feed.xml" rel="self" />
     <link href="https://igstephenson.github.io/travelism" />
-    <updated>2026-07-05T17:43:26+01:00</updated>
+    <updated>2026-07-05T17:52:26+01:00</updated>
     <author>
         <name>Ian Stephenson</name>
     </author>
     <id>https://igstephenson.github.io/travelism</id>
 
     <entry>
-        <title>Hong Kong</title>
+        <title>Hong Kong Travel Instructions</title>
         <author>
             <name>Ian Stephenson</name>
         </author>
@@ -20,21 +20,22 @@
         <updated>2026-07-05T17:20:03+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Japan Travel Itinerary This itinerary covers a journey across Japan from Tokyo to Kyoto, Hiroshima, and Osaka. It includes key attractions, train travel details, and food recommendations for each city. Using a Japan Rail Pass makes this route efficient and cost-effective. Days 1–4: Tokyo Base:&hellip;
+                    Hong Kong Transport Octopus Card – buy at Airport Buy ‘Tourist Octopus (Sold Version)’ for visitors to Hong Kong. Priced at HK$39 without initial value, load up HK$300 to cover Airport Express. Buy at Hung Fook Tong or 7 Eleven stores, or MTR Customer Service&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p> </p>
-<p class="p1 align-left"><strong>Japan Travel Itinerary</strong></p>
-<p class="p2 align-left">This itinerary covers a journey across Japan from Tokyo to Kyoto, Hiroshima, and Osaka. It</p>
-<p class="p2 align-left">includes key attractions, train travel details, and food recommendations for each city. Using a Japan</p>
-<p class="p2 align-left">Rail Pass makes this route efficient and cost-effective.</p>
-<p class="p3 align-left"><strong>Days 1–4: Tokyo</strong></p>
-<p class="p2 align-left">Base: Shinjuku, Shibuya, or Tokyo Station area. Highlights: - Day 1: Arrival, explore Shinjuku</p>
-<p class="p2 align-left">(Omoide Yokocho, Kabukicho). - Day 2: Asakusa (Senso-ji Temple), Ueno Park, Akihabara. - Day</p>
-<p class="p2 align-left">3: Meiji Shrine, Harajuku, Shibuya Crossing. - Day 4: Day trip to Nikko, Hakone, or Odaiba.</p>
-<p class="p2 align-left">Transport: JR Yamanote Line, Tokyo Metro.</p>
+                <h1>Hong Kong Transport</h1>
+<p><strong>Octopus Card – buy at Airport</strong></p>
+<p>Buy ‘Tourist Octopus (Sold Version)’ for visitors to Hong Kong. Priced at HK$39 without initial value, load up HK$300 to cover Airport Express. Buy at <strong>Hung Fook Tong</strong> or <strong>7 Eleven</strong> stores, or <strong>MTR Customer Service Centre</strong>.</p>
+<p><strong>Airport Express train (pay with Octopus card)</strong></p>
+<ul>
+<li>Goes between the airport and Central in 24 mins. Trains depart every 10mins.</li>
+<li>Airport Express (green) Line, to Hong Kong/Central</li>
+<li>Transfer to Island Line (dark blue) towards Chai Wan</li>
+<li>Get off at Wan Chai station, Exit A3 and walk to Hopewell Centre.</li>
+</ul>
+<figure class="post__image"><img loading="lazy"  src="https://igstephenson.github.io/travelism/media/posts/1/Hk_mtr.png" alt="" width="867" height="651" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://igstephenson.github.io/travelism/media/posts/1/responsive/Hk_mtr-xs.png 640w ,https://igstephenson.github.io/travelism/media/posts/1/responsive/Hk_mtr-sm.png 768w ,https://igstephenson.github.io/travelism/media/posts/1/responsive/Hk_mtr-md.png 1024w ,https://igstephenson.github.io/travelism/media/posts/1/responsive/Hk_mtr-lg.png 1366w ,https://igstephenson.github.io/travelism/media/posts/1/responsive/Hk_mtr-xl.png 1600w ,https://igstephenson.github.io/travelism/media/posts/1/responsive/Hk_mtr-2xl.png 1920w"></figure>
             ]]>
         </content>
     </entry>
